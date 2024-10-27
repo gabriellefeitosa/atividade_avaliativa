@@ -1,0 +1,9 @@
+# Exibição de Data e Hora em Javascript
+
+Este repositório contém um código em JavaScript que exibe o dia da semana e a hora atual formatada no formato `HH:MM:SS`.
+
+## Estrutura do Projeto
+
+- **fundamentos-questao01.js**: Arquivo principal com o código JavaScript.
+- **README.md**: Instruções sobre o projeto.
+
