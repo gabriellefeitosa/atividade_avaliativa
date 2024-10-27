@@ -1,31 +1,30 @@
-# Exercícios de JavaScript
+ Exercícios de JavaScript
 
 Este repositório contém soluções para uma série de exercícios de programação em JavaScript. Cada exercício é implementado como uma função em um arquivo JavaScript separado.
 
-## Estrutura do Repositório
+ Estrutura do Repositório
 
-- `fundamentos-questao01.js`: Programa que exibe propriedades de data e hora.
-- `fundamentos-questao02.js`: Programa que calcula a área de um triângulo.
-- `fundamentos-questao03.js`: Programa que converte temperaturas entre Celsius e Fahrenheit.
-- `fundamentos-questao04.js`: Programa que verifica dois números em relação ao número 30.
-- `fundamentos-questao05.js`: Programa que checa se três números estão entre 50 e 99.
-- `fundamentos-questao06.js`: Programa que encontra o número com maior quantidade de ocorrência em um array.
-- `fundamentos-questao07.js`: Programa que modifica palavras em uma frase com base em seu comprimento.
-- `fundamentos-questao08.js`: Programa que exibe uma frase ao inverso.
-- `fundamentos-questao09.js`: Programa que calcula a soma dos tamanhos de todas as palavras em uma frase.
-- `fundamentos-questao10.js`: Programa que formata o nome e sobrenome de uma pessoa.
-- `fundamentos-questao11.js`: Programa que retorna os últimos n elementos de uma lista.
-- `fundamentos-questao12.js`: Programa que une elementos de uma lista em uma única string.
-- `fundamentos-questao13.js`: Programa que eleva números a 3 e soma os resultados.
-- `fundamentos-questao14.js`: Programa que determina se uma palavra está presente em uma frase.
-- `fundamentos-questao15.js`: Programa que ordena elementos numéricos de uma lista.
-- `condicionais-questao01.js`: Programa que compara dois números e determina o maior.
-- `condicionais-questao02.js`: Programa que itera entre 0 e 50, verificando se os números são pares ou ímpares.
-- `condicionais-questao03.js`: Programa que itera entre 0 e 99, somando números pares e ímpares.
-- `condicionais-questao04.js`: Programa que calcula as médias de 5 alunos.
-- `funcoes-questao01.js`: Função que inverte um número.
-- `funcoes-questao02.js`: Função que conta vogais e consoantes em uma frase.
-- `funcoes-questao03.js`: Função que encontra o maior e menor valor em uma lista de 10 números.
-- `funcoes-questao04.js`: Função que verifica se uma palavra está presente em uma frase.
-- `funcoes-questao05.js`: Função que encontra a maior palavra em uma frase.
-
+- fundamentos-questao01.js`: Programa que exibe propriedades de data e hora.
+- fundamentos-questao02.js`: Programa que calcula a área de um triângulo.
+- fundamentos-questao03.js`: Programa que converte temperaturas entre Celsius e Fahrenheit.
+- fundamentos-questao04.js`: Programa que verifica dois números em relação ao número 30.
+- fundamentos-questao05.js`: Programa que checa se três números estão entre 50 e 99.
+- fundamentos-questao06.js`: Programa que encontra o número com maior quantidade de ocorrência em um array.
+- fundamentos-questao07.js`: Programa que modifica palavras em uma frase com base em seu comprimento.
+- fundamentos-questao08.js`: Programa que exibe uma frase ao inverso.
+- fundamentos-questao09.js`: Programa que calcula a soma dos tamanhos de todas as palavras em uma frase.
+- fundamentos-questao10.js`: Programa que formata o nome e sobrenome de uma pessoa.
+- fundamentos-questao11.js`: Programa que retorna os últimos n elementos de uma lista.
+- fundamentos-questao12.js`: Programa que une elementos de uma lista em uma única string.
+- fundamentos-questao13.js`: Programa que eleva números a 3 e soma os resultados.
+- fundamentos-questao14.js`: Programa que determina se uma palavra está presente em uma frase.
+- fundamentos-questao15.js`: Programa que ordena elementos numéricos de uma lista.
+- condicionais-questao01.js`: Programa que compara dois números e determina o maior.
+- condicionais-questao02.js`: Programa que itera entre 0 e 50, verificando se os números são pares ou ímpares.
+- condicionais-questao03.js`: Programa que itera entre 0 e 99, somando números pares e ímpares.
+- condicionais-questao04.js`: Programa que calcula as médias de 5 alunos.
+- funcoes-questao01.js`: Função que inverte um número.
+- funcoes-questao02.js`: Função que conta vogais e consoantes em uma frase.
+- funcoes-questao03.js`: Função que encontra o maior e menor valor em uma lista de 10 números.
+- funcoes-questao04.js`: Função que verifica se uma palavra está presente em uma frase.
+- funcoes-questao05.js`: Função que encontra a maior palavra em uma frase.
